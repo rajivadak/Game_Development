@@ -1,0 +1,19 @@
+C++ in game development 
+
+Books: SFML Game development by example,
+Beginning C++ through game programming
+
+
+SFML - simple and fast multimedia language
+
+game designing is different from game programming - search on that
+
+
+Game engines - learning to make one from scratch in this course
+	
+ECS Game programming - Entities, Components, Systems.
+	Is a software design paradigm, and can be used for all software, not limited to gaming only
+
+Object Oriented Programming - 
+	Object Oriented programming used the concept of Objects and Inheritance to implement specific functionality
+	Object Oriented design (in games) is the process of strictly using OOP in order to design the architecture of the game engine and the entities within it.
