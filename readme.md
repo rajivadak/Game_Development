@@ -1,4 +1,4 @@
 Next Action:
 
-- do 30 min of c++ game dev video on youtube and notes
+- 45 min of comp4300 course on youtube
 - move on to blockchain_dev
