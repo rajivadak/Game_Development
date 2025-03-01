@@ -1,5 +1,3 @@
-C++ in game development 
-
 Books: SFML Game development by example,
 Beginning C++ through game programming
 
@@ -17,3 +15,18 @@ ECS Game programming - Entities, Components, Systems.
 Object Oriented Programming - 
 	Object Oriented programming used the concept of Objects and Inheritance to implement specific functionality
 	Object Oriented design (in games) is the process of strictly using OOP in order to design the architecture of the game engine and the entities within it.
+	
+	Entity - Anything object in the game: player, platform, tile, design
+	Component - properties attached to entities
+		Components are pure data
+	Systems - Code/logic that drives the behaviour in the game
+		movement, rendering, sound, physics 
+		
+Engine Architecture:
+
+	Game Engine
+		> Scene
+			> Systems
+			> EntityManager [Factory data manager] ***important***
+				> Entity
+					> Component
